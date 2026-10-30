@@ -1,0 +1,16 @@
+div .about-me {
+    color: #080401;
+    font-size: 16px;
+}
+
+p.intro {
+    font-weight: bold;
+}
+
+.headline {
+    font-weight: bolder;
+}
+
+body {
+    background-color: #c8bef5;
+}
